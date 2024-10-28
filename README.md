@@ -5,9 +5,9 @@ Hic textus est incantatio diei omnium sanctorum. Convertit omnia et omnes in nig
 Ad activationem exsequeris mandata:
 
 * docker build
-
 * docker run
+* docker amen
 
-* docker amen
-
+  
 Ut incantationem solvas, scribe incantationem "ducklyforce"
+![duck everywhere](ducks-everywhere.png)
